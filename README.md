@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0334-increasing-triplet-subsequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 ## Sorting
 |  |
 | ------- |
