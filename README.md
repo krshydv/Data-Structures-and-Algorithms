@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
