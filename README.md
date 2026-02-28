@@ -71,6 +71,7 @@ A collection of LeetCode questions
 | [0032-longest-valid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
+| [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Greedy
@@ -154,6 +155,7 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
