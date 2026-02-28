@@ -190,6 +190,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
+| [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 ## Linked List
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions
 | ------- |
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 ## Data Stream
 |  |
 | ------- |
