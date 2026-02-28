@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions
 | [0336-palindrome-pairs](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 ## Design
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 ## Data Stream
 |  |
 | ------- |
@@ -239,4 +242,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
