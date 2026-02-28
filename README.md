@@ -126,6 +126,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -163,4 +164,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
