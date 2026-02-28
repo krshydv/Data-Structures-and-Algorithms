@@ -68,12 +68,14 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 ## Sorting
@@ -134,6 +136,7 @@ A collection of LeetCode questions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
