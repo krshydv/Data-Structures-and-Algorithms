@@ -26,6 +26,7 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
+| [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 ## Graph Theory
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,4 +193,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
