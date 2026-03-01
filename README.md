@@ -61,6 +61,7 @@ A collection of LeetCode questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0386-lexicographical-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
