@@ -164,6 +164,7 @@ A collection of LeetCode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Stack
 |  |
 | ------- |
