@@ -92,6 +92,7 @@ A collection of LeetCode questions
 | [0336-palindrome-pairs](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0336-palindrome-pairs) |
 | [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Greedy
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions
 | ------- |
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
