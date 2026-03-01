@@ -60,6 +60,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
+| [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0336-palindrome-pairs) |
+| [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions
 | [0094-binary-tree-inorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 ## Backtracking
 |  |
 | ------- |
