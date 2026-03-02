@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -93,6 +94,7 @@ A collection of LeetCode questions
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0336-palindrome-pairs) |
 | [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
