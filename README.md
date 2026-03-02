@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
 |  |
 | ------- |
