@@ -205,6 +205,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
