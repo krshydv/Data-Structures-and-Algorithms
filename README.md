@@ -25,6 +25,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
+| [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 ## Matrix
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
