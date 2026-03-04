@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
@@ -322,4 +324,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
