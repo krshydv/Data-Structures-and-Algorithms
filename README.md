@@ -129,6 +129,7 @@ A collection of LeetCode questions
 | [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
