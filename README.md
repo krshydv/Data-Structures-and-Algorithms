@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
