@@ -262,6 +262,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Merge Sort
@@ -272,6 +273,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
