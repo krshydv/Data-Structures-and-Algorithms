@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions
 | [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
+| [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 ## Graph Theory
 |  |
 | ------- |
