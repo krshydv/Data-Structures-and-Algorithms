@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions
 | [0239-sliding-window-maximum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions
 | [0478-generate-random-point-in-a-circle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0478-generate-random-point-in-a-circle) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Data Stream
 |  |
 | ------- |
