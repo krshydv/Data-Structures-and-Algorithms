@@ -206,6 +206,7 @@ A collection of LeetCode questions
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions
 | ------- |
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0478-generate-random-point-in-a-circle) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Data Stream
 |  |
 | ------- |
@@ -328,4 +332,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
