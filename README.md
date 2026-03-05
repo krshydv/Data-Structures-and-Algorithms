@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Tree
 |  |
 | ------- |
