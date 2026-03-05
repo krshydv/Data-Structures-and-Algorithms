@@ -316,6 +316,7 @@ A collection of LeetCode questions
 | [0090-subsets-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
+| [0693-binary-number-with-alternating-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
 |  |
