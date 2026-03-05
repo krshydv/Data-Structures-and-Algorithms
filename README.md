@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
+| [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
