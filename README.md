@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Union-Find
@@ -238,6 +241,7 @@ A collection of LeetCode questions
 | [0239-sliding-window-maximum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
