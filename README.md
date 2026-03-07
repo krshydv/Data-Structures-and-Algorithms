@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
+| [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 ## String
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0478-generate-random-point-in-a-circle) |
+| [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -437,4 +441,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
