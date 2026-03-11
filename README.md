@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [1370-increasing-decreasing-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions
 | [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Tree
@@ -258,6 +263,7 @@ A collection of LeetCode questions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Queue
 |  |
 | ------- |
