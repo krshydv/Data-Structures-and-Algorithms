@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [0652-find-duplicate-subtrees](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0652-find-duplicate-subtrees) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [1370-increasing-decreasing-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0652-find-duplicate-subtrees](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0652-find-duplicate-subtrees](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0652-find-duplicate-subtrees](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
