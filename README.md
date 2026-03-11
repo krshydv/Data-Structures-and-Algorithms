@@ -353,6 +353,7 @@ A collection of LeetCode questions
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0693-binary-number-with-alternating-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
+| [1009-complement-of-base-10-integer](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
 |  |
