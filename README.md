@@ -35,6 +35,7 @@ A collection of LeetCode questions
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
