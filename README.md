@@ -27,6 +27,7 @@ A collection of LeetCode questions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
+| [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0652-find-duplicate-subtrees) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
+| [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [1370-increasing-decreasing-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -135,6 +139,7 @@ A collection of LeetCode questions
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Union-Find
@@ -142,6 +147,7 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
+| [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 ## String
 |  |
 | ------- |
