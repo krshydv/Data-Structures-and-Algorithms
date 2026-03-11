@@ -160,6 +160,7 @@ A collection of LeetCode questions
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
+| [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1370-increasing-decreasing-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
