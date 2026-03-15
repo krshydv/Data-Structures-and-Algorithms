@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
+| [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
+| [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 ## Design
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions
 | [2048-next-greater-numerically-balanced-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
+| [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 ## Quickselect
 |  |
 | ------- |
