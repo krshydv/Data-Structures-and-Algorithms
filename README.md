@@ -55,6 +55,7 @@ A collection of LeetCode questions
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2402-meeting-rooms-iii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -498,6 +500,7 @@ A collection of LeetCode questions
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Rejection Sampling
