@@ -35,6 +35,7 @@ A collection of LeetCode questions
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
