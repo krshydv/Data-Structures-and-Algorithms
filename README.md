@@ -62,6 +62,7 @@ A collection of LeetCode questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
 |  |
