@@ -65,6 +65,7 @@ A collection of LeetCode questions
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
 | ------- |
