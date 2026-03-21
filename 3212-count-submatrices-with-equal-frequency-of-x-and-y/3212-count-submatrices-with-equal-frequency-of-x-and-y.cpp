@@ -3,7 +3,7 @@ public:
     int numberOfSubmatrices(vector<vector<char>>& grid) {
         int n = grid.size(), m = grid[0].size();
         
-        // Prefix counts of X and Y
+        
         vector<vector<int>> px(n + 1, vector<int>(m + 1, 0));
         vector<vector<int>> py(n + 1, vector<int>(m + 1, 0));
         
@@ -16,7 +16,6 @@ public:
         
         int ans = 0;
         
-        // Submatrices that contain grid[0][0] are exactly prefixes (0,0) -> (i,j)
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
                 int cx = px[i][j];
