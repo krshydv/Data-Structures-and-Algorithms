@@ -54,6 +54,7 @@ A collection of LeetCode questions
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2906-construct-product-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2906-construct-product-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2906-construct-product-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
