@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1390-four-divisors) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
