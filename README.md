@@ -467,6 +467,7 @@ A collection of LeetCode questions
 | [0190-reverse-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0693-binary-number-with-alternating-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 | [1009-complement-of-base-10-integer](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0478-generate-random-point-in-a-circle) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1622-fancy-sequence) |
