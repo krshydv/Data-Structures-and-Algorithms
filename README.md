@@ -231,6 +231,7 @@ A collection of LeetCode questions
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
+| [2211-count-collisions-on-a-road](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2211-count-collisions-on-a-road](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2945-find-maximum-non-decreasing-array-length) |
 ## Backtracking
@@ -546,6 +548,7 @@ A collection of LeetCode questions
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2043-simple-bank-system](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2043-simple-bank-system) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2211-count-collisions-on-a-road](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
