@@ -80,6 +80,7 @@ A collection of LeetCode questions
 | [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -483,6 +484,7 @@ A collection of LeetCode questions
 | [0190-reverse-bits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
