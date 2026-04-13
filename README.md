@@ -42,6 +42,7 @@ A collection of LeetCode questions
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
