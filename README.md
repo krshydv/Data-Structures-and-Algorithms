@@ -81,6 +81,7 @@ A collection of LeetCode questions
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph Theory
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Tree
 |  |
@@ -469,6 +473,7 @@ A collection of LeetCode questions
 | [0696-count-binary-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
