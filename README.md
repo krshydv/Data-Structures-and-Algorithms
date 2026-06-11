@@ -198,6 +198,7 @@ A collection of LeetCode questions
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Data Stream
 |  |
