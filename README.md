@@ -258,6 +258,7 @@ A collection of LeetCode questions
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -692,4 +695,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
