@@ -44,6 +44,7 @@ A collection of LeetCode questions
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions
 | [1390-four-divisors](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1390-four-divisors) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1622-fancy-sequence) |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions
 | ------- |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -698,5 +702,14 @@ A collection of LeetCode questions
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
