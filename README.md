@@ -269,6 +269,7 @@ A collection of LeetCode questions
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
