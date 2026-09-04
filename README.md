@@ -101,6 +101,7 @@ A collection of LeetCode questions
 | [3838-weighted-word-mapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -665,6 +666,7 @@ A collection of LeetCode questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
+| [3903-smallest-stable-index-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 ## Rejection Sampling
 |  |
 | ------- |
