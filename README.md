@@ -283,6 +283,7 @@ A collection of LeetCode questions
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions
 | [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
