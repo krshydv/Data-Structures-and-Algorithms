@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [1370-increasing-decreasing-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -479,6 +483,7 @@ A collection of LeetCode questions
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
