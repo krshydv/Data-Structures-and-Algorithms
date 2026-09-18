@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1895-largest-magic-square) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions
 | [0295-find-median-from-data-stream](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1813-sentence-similarity-iii) |
+| [1861-rotating-the-box](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
