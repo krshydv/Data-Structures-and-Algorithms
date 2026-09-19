@@ -605,6 +605,7 @@ A collection of LeetCode questions
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [1390-four-divisors](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions
 | ------- |
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0478-generate-random-point-in-a-circle) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sweep Line
 |  |
 | ------- |
