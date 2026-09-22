@@ -86,6 +86,7 @@ A collection of LeetCode questions
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3525-find-x-value-of-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1622-fancy-sequence) |
+| [3525-find-x-value-of-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
