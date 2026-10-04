@@ -281,6 +281,7 @@ A collection of LeetCode questions
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0449-serialize-and-deserialize-bst) |
 | [0657-robot-return-to-origin](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions
 | [0044-wildcard-matching](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0757-set-intersection-size-at-least-two](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0757-set-intersection-size-at-least-two) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions
 | [0337-house-robber-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0354-russian-doll-envelopes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions
 | [0385-mini-parser](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
