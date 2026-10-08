@@ -1,48 +1,94 @@
 class Solution {
 public:
-    vector<string> removeInvalidParentheses(string s) {
-        vector<string> result;
-        unordered_set<string> visited;
-        queue<string> q;
+    vector<string> ans;
 
-        q.push(s);
-        visited.insert(s);
-        bool found = false;
+    void solve(string &s, int index, int left, int right,
+               int remLeft, int remRight, string &cur) {
 
-        while (!q.empty()) {
-            string curr = q.front();
-            q.pop();
-
-            if (isValid(curr)) {
-                result.push_back(curr);
-                found = true;
-            }
-
-            if (found) continue;
-
-            for (int i = 0; i < curr.size(); i++) {
-                if (curr[i] != '(' && curr[i] != ')') continue;
-
-                string next = curr.substr(0, i) + curr.substr(i + 1);
-                if (!visited.count(next)) {
-                    visited.insert(next);
-                    q.push(next);
-                }
-            }
+        if (index == s.size()) {
+            if (left == right && remLeft == 0 && remRight == 0)
+                ans.push_back(cur);
+            return;
         }
 
-        return result;
+        char c = s[index];
+
+        if (c == '(' && remLeft > 0) {
+            solve(s, index + 1, left, right,
+                  remLeft - 1, remRight, cur);
+        }
+
+        if (c == ')' && remRight > 0) {
+            solve(s, index + 1, left, right,
+                  remLeft, remRight - 1, cur);
+        }
+
+        if (c == '(') {
+            cur.push_back(c);
+
+            solve(s, index + 1, left + 1, right,
+                  remLeft, remRight, cur);
+
+            cur.pop_back();
+        }
+        else if (c == ')') {
+            if (left > right) {
+                cur.push_back(c);
+
+                solve(s, index + 1, left, right + 1,
+                      remLeft, remRight, cur);
+
+                cur.pop_back();
+            }
+        }
+        else {
+            cur.push_back(c);
+
+            solve(s, index + 1, left, right,
+                  remLeft, remRight, cur);
+
+            cur.pop_back();
+        }
     }
 
-    bool isValid(string s) {
-        int count = 0;
+    vector<string> removeInvalidParentheses(string s) {
+        int left = 0;
+        int right = 0;
+
         for (char c : s) {
-            if (c == '(') count++;
+            if (c == '(') {
+                left++;
+            }
             else if (c == ')') {
-                count--;
-                if (count < 0) return false;
+                if (left > 0)
+                    left--;
+                else
+                    right++;
             }
         }
-        return count == 0;
+
+        int remLeft = 0;
+        int remRight = 0;
+
+        for (char c : s) {
+            if (c == '(') {
+                remLeft++;
+            }
+            else if (c == ')' && remLeft > 0) {
+                remLeft--;
+            }
+            else if (c == ')') {
+                remRight++;
+            }
+        }
+
+        string cur;
+
+        solve(s, 0, 0, 0, remLeft, remRight, cur);
+
+        sort(ans.begin(), ans.end());
+        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+
+        return ans;
     }
 };
