@@ -286,6 +286,7 @@ A collection of LeetCode questions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions
 | [0388-longest-absolute-file-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
