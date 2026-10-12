@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [2574-left-and-right-sum-differences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2945-find-maximum-non-decreasing-array-length) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions
 | [2196-create-binary-tree-from-descriptions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2402-meeting-rooms-iii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions
 | [1009-complement-of-base-10-integer](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1009-complement-of-base-10-integer) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
