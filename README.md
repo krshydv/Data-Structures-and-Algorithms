@@ -356,6 +356,7 @@ A collection of LeetCode questions
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -672,6 +673,7 @@ A collection of LeetCode questions
 | [3525-find-x-value-of-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3871-count-commas-in-range-ii) |
