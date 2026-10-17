@@ -97,6 +97,7 @@ A collection of LeetCode questions
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3583-count-special-triplets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
