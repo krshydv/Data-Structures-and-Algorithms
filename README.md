@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1390-four-divisors) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions
 | [0835-image-overlap](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions
 | [0994-rotting-oranges](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-regions-cut-by-slashes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0959-regions-cut-by-slashes) |
+| [1254-number-of-closed-islands](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
