@@ -121,6 +121,7 @@ A collection of LeetCode questions
 | [3838-weighted-word-mapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -665,6 +668,7 @@ A collection of LeetCode questions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
