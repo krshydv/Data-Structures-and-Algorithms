@@ -119,6 +119,7 @@ A collection of LeetCode questions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions
 | [3474-lexicographically-smallest-generated-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
 | [3838-weighted-word-mapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions
 | [2196-create-binary-tree-from-descriptions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -649,6 +653,7 @@ A collection of LeetCode questions
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -668,6 +673,7 @@ A collection of LeetCode questions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -841,6 +847,7 @@ A collection of LeetCode questions
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -875,4 +882,5 @@ A collection of LeetCode questions
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
