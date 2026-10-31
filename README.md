@@ -112,6 +112,7 @@ A collection of LeetCode questions
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
