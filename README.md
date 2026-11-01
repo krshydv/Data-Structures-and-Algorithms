@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0393-utf-8-validation) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0390-elimination-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0391-perfect-rectangle) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0478-generate-random-point-in-a-circle](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0478-generate-random-point-in-a-circle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
