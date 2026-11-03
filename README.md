@@ -118,6 +118,7 @@ A collection of LeetCode questions
 | [3691-maximum-total-subarray-value-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3871-count-commas-in-range-ii) |
