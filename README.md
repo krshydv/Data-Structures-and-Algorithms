@@ -121,6 +121,7 @@ A collection of LeetCode questions
 | [3665-twisted-mirror-path-count](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
