@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-subrectangle-queries](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions
 | [0952-largest-component-size-by-common-factor](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0952-largest-component-size-by-common-factor) |
 | [1390-four-divisors](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions
 | ------- |
 | [0525-contiguous-array](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [1208-get-equal-substrings-within-budget](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1208-get-equal-substrings-within-budget) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
