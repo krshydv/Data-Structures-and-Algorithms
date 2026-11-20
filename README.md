@@ -92,6 +92,7 @@ A collection of LeetCode questions
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions
 | [2747-count-zero-request-servers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
