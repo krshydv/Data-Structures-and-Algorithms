@@ -96,6 +96,7 @@ A collection of LeetCode questions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3340-check-balanced-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3527-find-the-most-common-response](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3527-find-the-most-common-response) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions
 | [1932-merge-bsts-to-create-single-bst](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
