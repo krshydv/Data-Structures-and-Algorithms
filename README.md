@@ -356,6 +356,7 @@ A collection of LeetCode questions
 | [1927-sum-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2211-count-collisions-on-a-road](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2409-count-days-spent-together](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2409-count-days-spent-together) |
