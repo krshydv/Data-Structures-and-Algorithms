@@ -745,6 +745,7 @@ A collection of LeetCode questions
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3360-stone-removal-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3525-find-x-value-of-array-ii) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions
 | [2751-robot-collisions](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3360-stone-removal-game](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3360-stone-removal-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/krshydv/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
